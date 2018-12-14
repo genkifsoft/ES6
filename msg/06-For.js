@@ -24,5 +24,5 @@ for(let index in todoObj)
     console.log(index + ':'+ todoObj[index]);
 
 // for of. With one object not be use for of to eatch item. Not true
-for(let pro of todoObj)
-    console.log(pro);
+// for(let pro of todoObj)
+//     console.log(pro);
